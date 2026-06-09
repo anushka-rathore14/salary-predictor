@@ -37,7 +37,7 @@ This project demonstrates a full-stack data science lifecycle. It takes raw, mes
 
 The application follows a structured, production-aligned approach. The model training pipeline is decoupled from the user interface, communicating via a serialized `.pkl` file.
 
-```mermaid
+
 graph TD;
     A[Raw CSV Data] --> B(Data Cleaning via Pandas);
     B --> C{Scikit-Learn Model Training};
