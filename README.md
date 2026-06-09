@@ -107,7 +107,7 @@ streamlit run app.py
 ## 📊 Dataset Overview
 
 The dataset consists of **6,704** used salary listings from Salary_Data dataset.  The dataset used in this project was provided as part of the Complete Data Science and Machine Learning 
-course on GeeksForGeeks, taught by <a href="https://github.com/JayanGupta">Mr.Jayan Gupta</a>
+course on GeeksForGeeks, taught by <a href="https://github.com/JayanGupta" target="_blank" rel="noopener noreferrer">Mr.Jayan Gupta</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
