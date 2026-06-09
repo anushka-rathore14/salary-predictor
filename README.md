@@ -81,7 +81,7 @@ The model was evaluated using standard regression metrics to ensure reliable and
 
 ### 🌐 The Cloud Way (Recommended)
 You do not need to install anything to interact with the model.
-👉 <a href="https://salary-predictor-eq9ftpswnpwyarfnn2xeex.streamlit.app/">Salary Predictor</a>
+👉 <a href="https://salary-predictor-eq9ftpswnpwyarfnn2xeex.streamlit.app/" target="_blank" rel="noopener noreferrer">Salary Predictor</a>
 
 ```
 ### ▶️ Run Locally
