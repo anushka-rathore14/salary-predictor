@@ -58,13 +58,28 @@ The model was evaluated using standard regression metrics to ensure reliable and
 
 ## 💻 Tech Stack and Tools
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3178C6?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-7B8E9D?style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+<div align="center">
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,vscode,jupyter,git,github&theme=dark" height="50"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+<img src="https://img.shields.io/badge/Lasso_(L1)-00d9ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Ridge_(L2)-7c3aed?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Sklearn_Pipeline-34d399?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
