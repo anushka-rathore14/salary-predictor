@@ -11,8 +11,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/anushka-rathore14/salary-predictor?style=for-the-badge&color=00d9ff&labelColor=0d1117)
 ![GitHub repo size](https://img.shields.io/github/repo-size/anushka-rathore14/salary-predictor?style=for-the-badge&color=7c3aed&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/anushka-rathore14/salary-predictor?style=for-the-badge&color=fbbf24&labelColor=0d1117)
-[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://salary-predictor-eq9ftpswnpwyarfnn2xeex.streamlit.app/)
+[![GitHub stars](https://img.shields.io/github/stars/anushka-rathore14/salary-predictor?style=flat-square&color=blue)](https://github.com/anushka-rathore14/salary-predictor/stargazers)[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://salary-predictor-eq9ftpswnpwyarfnn2xeex.streamlit.app/)
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
