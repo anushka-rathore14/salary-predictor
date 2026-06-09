@@ -74,8 +74,6 @@ The model was evaluated using standard regression metrics to ensure reliable and
 
 <p>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
-<img src="https://img.shields.io/badge/Lasso_(L1)-00d9ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Ridge_(L2)-7c3aed?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Sklearn_Pipeline-34d399?style=for-the-badge&labelColor=0d1117" />
 </p>
 
