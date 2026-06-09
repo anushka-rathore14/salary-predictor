@@ -62,9 +62,7 @@ The model was evaluated using standard regression metrics to ensure reliable and
 
 
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" height="50"/>
-</p>
+
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -75,8 +73,6 @@ The model was evaluated using standard regression metrics to ensure reliable and
 
 <p>
   <img src="https://img.shields.io/badge/Streamlit%20Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Serialization-Pickle-00d9ff?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Architecture-Regression-7c3aed?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 
