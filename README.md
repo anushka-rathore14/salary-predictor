@@ -40,15 +40,9 @@ The application follows a structured, production-aligned approach. The model tra
 
 graph TD;
     A[Raw CSV Data] --> B(Data Cleaning via Pandas);
-    B --> C{Scikit-Learn Model Training};
+    B--> C{Scikit-Learn Model Training};
     C --> D[Streamlit Dashboard Integration];
     D --> E((End User Interface));
-
-    style A fill:#0d1117,stroke:#00d9ff,color:#ffffff
-    style B fill:#0d1117,stroke:#7c3aed,color:#ffffff
-    style C fill:#0d1117,stroke:#34d399,color:#ffffff
-    style D fill:#0d1117,stroke:#fbbf24,color:#ffffff
-    style E fill:#0d1117,stroke:#f472b6,color:#ffffff
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
