@@ -32,6 +32,22 @@ This project demonstrates a full-stack data science lifecycle. It takes raw, mes
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+### 🔎 Why This Project Matters (Recruiter View)
+
+This project demonstrates my ability to:
+
+-Clean, preprocess, and manipulate raw datasets using Python and Pandas, including complex string replacements and data type conversions.
+
+-Design and implement machine learning models for predictive analysis and numerical forecasting.
+
+-Perform targeted feature engineering to extract meaningful variables and optimize model accuracy.
+
+-Develop robust, modular backend code to support data ingestion pipelines and mathematical computations.
+
+-Analyze and transform complex structured data into actionable quantitative insights.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🗺️ System Architecture
 
 The application follows a structured, production-aligned approach. The model training pipeline is decoupled from the user interface, communicating via a serialized `.pkl` file.
