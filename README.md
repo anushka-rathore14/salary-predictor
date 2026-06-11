@@ -34,7 +34,7 @@ This project demonstrates a full-stack data science lifecycle. It takes raw, mes
 
 ### 🔎 Why This Project Matters (Recruiter View)
 
-This project demonstrates my ability to:
+> This project demonstrates my ability to:
 
 -Clean, preprocess, and manipulate raw datasets using Python and Pandas, including complex string replacements and data type conversions.
 
